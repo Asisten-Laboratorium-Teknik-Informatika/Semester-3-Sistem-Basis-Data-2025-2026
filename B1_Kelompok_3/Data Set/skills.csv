@@ -1,0 +1,23 @@
+skill_id,skill_name
+1,NumPy
+2,Reinforcement Learning
+3,PyTorch
+4,Scikit-learn
+5,GCP
+6,FastAPI
+7,CUDA
+8,SQL
+9,Pandas
+10,MLflow
+11,Azure
+12,C++
+13,LangChain
+14,AWS
+15,R
+16,Excel
+17,Keras
+18,Hugging Face
+19,Python
+20,Flask
+21,TensorFlow
+22,Power BI
