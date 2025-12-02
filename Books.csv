@@ -1,0 +1,501 @@
+Book_ID,Title,Author,Genre,Published_Year,Price,Stock
+1,Configurable modular throughput,Joseph Crane,Biography,1949,337172,100
+2,Persevering reciprocal knowledge user,Mario Moore,Fantasy,1971,565640,19
+3,Streamlined coherent initiative,Derrick Howard,Non-Fiction,1913,248850,27
+4,Customizable 24hour product,Christopher Andrews,Fiction,2020,687616,8
+5,Adaptive 5thgeneration encoding,Juan Miller,Fantasy,1956,173010,16
+6,Advanced encompassing implementation,Bryan Morgan,Biography,1985,103648,2
+7,Open-architected exuding structure,Jacqueline Young,Romance,1927,689354,95
+8,Persistent local encoding,Troy Cox,Science Fiction,2019,774042,84
+9,Optimized interactive challenge,Colin Buckley,Fantasy,1987,226414,70
+10,Ergonomic national hub,Samantha Ruiz,Mystery,2015,389154,25
+11,Secured zero tolerance time-frame,Denise Barnes,Fantasy,1998,568010,10
+12,Polarized optimal array,Destiny Scott,Non-Fiction,1989,433594,63
+13,Adaptive 5thgeneration orchestration,Jaclyn Miller,Romance,1913,221832,99
+14,Re-engineered demand-driven parallelism,Jeremy Hayes,Science Fiction,1933,95432,95
+15,User-friendly motivating strategy,Keith Smith,Non-Fiction,1997,376514,58
+16,Vision-oriented tangible project,Christopher Price,Mystery,1941,159106,8
+17,Reduced secondary core,Benjamin Peters,Fantasy,1966,84846,45
+18,Adaptive 4thgeneration concept,Hector Palmer,Non-Fiction,2021,623626,32
+19,Progressive asymmetric Internet solution,Sean Miller,Science Fiction,1990,178698,1
+20,Organic static methodology,Jennifer Baker,Romance,1912,449940,99
+21,Enterprise-wide system engine,Diane Stewart,Mystery,1978,363860,58
+22,Seamless cohesive instruction set,John Martinez,Romance,1979,242488,84
+23,Inverse client-driven architecture,Beverly Davis,Fantasy,2009,465640,58
+24,Streamlined regional function,Christina Miller,Science Fiction,1945,284970,99
+25,Multi-tiered bandwidth-monitored interface,Jason Martinez,Mystery,1976,275030,75
+26,Virtual responsive algorithm,Joseph Davis,Non-Fiction,1979,351740,61
+27,Reverse-engineered real-time alliance,Angela Stewart,Fantasy,2014,598560,33
+28,Implemented homogeneous superstructure,David Johnson,Science Fiction,1915,236312,58
+29,Self-enabling 6thgeneration hierarchy,Mark Miller,Romance,1912,258860,76
+30,Open-source didactic architecture,Michael Brown,Mystery,1918,298868,58
+31,Seamless neutral matrix,Amanda Johnson,Non-Fiction,1968,313840,58
+32,Operative needs-based methodology,David Martinez,Romance,1977,272058,84
+33,Cross-group heuristic architecture,Jose Davis,Science Fiction,1919,414740,76
+34,Grass-roots value-added info-mediaries,Christopher Martinez,Mystery,1977,375540,58
+35,Real-time optimal methodology,John Davis,Fantasy,2013,511760,58
+36,Down-sized 4thgeneration utilisation,Michael Miller,Non-Fiction,1916,423860,33
+37,Organic 24/7 utilisation,Jose Martinez,Romance,1915,283120,99
+38,Front-line 24/7 project,Jason Johnson,Science Fiction,1978,297164,58
+39,Function-based cohesive alliance,John Martinez,Mystery,1978,311620,58
+40,Re-engineered 24/7 utilisation,David Davis,Fantasy,2012,543540,58
+41,Seamless client-driven methodology,Jose Miller,Non-Fiction,1917,283120,99
+42,Programmable coherent architecture,Jason Johnson,Romance,1979,297164,58
+43,Cross-platform neutral hierarchy,John Martinez,Science Fiction,1980,311620,58
+44,Virtual value-added alliance,David Davis,Mystery,1981,327060,58
+45,Real-time coherent methodology,Jose Miller,Fantasy,2011,543540,58
+46,Down-sized 24/7 utilisation,Jason Johnson,Non-Fiction,1918,297164,58
+47,Organic client-driven architecture,John Martinez,Romance,1982,311620,58
+48,Front-line neutral alliance,David Davis,Science Fiction,1983,327060,58
+49,Function-based value-added methodology,Jose Miller,Mystery,1984,343500,58
+50,Re-engineered coherent utilisation,Jason Johnson,Fantasy,2010,543540,58
+51,Seamless 24/7 methodology,John Martinez,Non-Fiction,1919,311620,58
+52,Programmable value-added architecture,David Davis,Romance,1985,327060,58
+53,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,1986,343500,58
+54,Virtual coherent alliance,Jason Johnson,Mystery,1987,359940,58
+55,Real-time value-added methodology,John Martinez,Fantasy,2009,543540,58
+56,Down-sized coherent utilisation,David Davis,Non-Fiction,1920,327060,58
+57,Organic 24/7 architecture,Jose Martinez,Romance,1988,359940,58
+58,Front-line client-driven alliance,Jason Johnson,Science Fiction,1989,376380,58
+59,Function-based neutral methodology,John Martinez,Mystery,1990,392820,58
+60,Re-engineered value-added utilisation,David Davis,Fantasy,2008,543540,58
+61,Seamless coherent methodology,Jose Martinez,Non-Fiction,1921,343500,58
+62,Programmable 24/7 architecture,David Davis,Romance,1991,376380,58
+63,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,1992,392820,58
+64,Virtual client-driven alliance,Jason Johnson,Mystery,1993,409260,58
+65,Real-time neutral methodology,John Martinez,Fantasy,2007,543540,58
+66,Down-sized value-added utilisation,David Davis,Non-Fiction,1922,359940,58
+67,Organic coherent architecture,Jose Martinez,Romance,1994,392820,58
+68,Front-line value-added alliance,Jason Johnson,Science Fiction,1995,409260,58
+69,Function-based client-driven methodology,John Martinez,Mystery,1996,425700,58
+70,Re-engineered neutral utilisation,David Davis,Fantasy,2006,543540,58
+71,Seamless value-added methodology,Jose Martinez,Non-Fiction,1923,376380,58
+72,Programmable coherent architecture,David Davis,Romance,1997,409260,58
+73,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,1998,425700,58
+74,Virtual value-added alliance,Jason Johnson,Mystery,1999,442140,58
+75,Real-time client-driven methodology,John Martinez,Fantasy,2005,543540,58
+76,Down-sized neutral utilisation,David Davis,Non-Fiction,1924,392820,58
+77,Organic value-added architecture,Jose Martinez,Romance,2000,425700,58
+78,Front-line coherent alliance,Jason Johnson,Science Fiction,2001,442140,58
+79,Function-based 24/7 methodology,John Martinez,Mystery,2002,458580,58
+80,Re-engineered value-added utilisation,David Davis,Fantasy,2004,543540,58
+81,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1925,409260,58
+82,Programmable neutral architecture,David Davis,Romance,2003,442140,58
+83,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2004,458580,58
+84,Virtual coherent alliance,Jason Johnson,Mystery,2005,475020,58
+85,Real-time 24/7 methodology,John Martinez,Fantasy,2003,543540,58
+86,Down-sized client-driven utilisation,David Davis,Non-Fiction,1926,425700,58
+87,Organic neutral architecture,Jose Martinez,Romance,2006,442140,58
+88,Front-line value-added alliance,Jason Johnson,Science Fiction,2007,458580,58
+89,Function-based coherent methodology,John Martinez,Mystery,2008,475020,58
+90,Re-engineered 24/7 utilisation,David Davis,Fantasy,2002,543540,58
+91,Seamless value-added methodology,Jose Martinez,Non-Fiction,1927,442140,58
+92,Programmable client-driven architecture,David Davis,Romance,2009,458580,58
+93,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2010,475020,58
+94,Virtual value-added alliance,Jason Johnson,Mystery,2011,491460,58
+95,Real-time coherent methodology,John Martinez,Fantasy,2001,543540,58
+96,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1928,458580,58
+97,Organic client-driven architecture,Jose Martinez,Romance,2012,475020,58
+98,Front-line neutral alliance,Jason Johnson,Science Fiction,2013,491460,58
+99,Function-based value-added methodology,John Martinez,Mystery,2014,507900,58
+100,Re-engineered coherent utilisation,David Davis,Fantasy,2000,543540,58
+101,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1929,475020,58
+102,Programmable value-added architecture,David Davis,Romance,2015,491460,58
+103,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2016,507900,58
+104,Virtual coherent alliance,Jason Johnson,Mystery,2017,524340,58
+105,Real-time value-added methodology,John Martinez,Fantasy,1999,543540,58
+106,Down-sized coherent utilisation,David Davis,Non-Fiction,1930,491460,58
+107,Organic 24/7 architecture,Jose Martinez,Romance,2018,507900,58
+108,Front-line value-added alliance,Jason Johnson,Science Fiction,2019,524340,58
+109,Function-based client-driven methodology,John Martinez,Mystery,2020,540780,58
+110,Re-engineered neutral utilisation,David Davis,Fantasy,1998,543540,58
+111,Seamless value-added methodology,Jose Martinez,Non-Fiction,1931,507900,58
+112,Programmable coherent architecture,David Davis,Romance,2021,524340,58
+113,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2022,540780,58
+114,Virtual value-added alliance,Jason Johnson,Mystery,2023,557220,58
+115,Real-time client-driven methodology,John Martinez,Fantasy,1997,543540,58
+116,Down-sized neutral utilisation,David Davis,Non-Fiction,1932,524340,58
+117,Organic value-added architecture,Jose Martinez,Romance,2024,540780,58
+118,Front-line coherent alliance,Jason Johnson,Science Fiction,2025,557220,58
+119,Function-based 24/7 methodology,John Martinez,Mystery,2026,573660,58
+120,Re-engineered value-added utilisation,David Davis,Fantasy,1996,543540,58
+121,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1933,540780,58
+122,Programmable neutral architecture,David Davis,Romance,2027,557220,58
+123,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2028,573660,58
+124,Virtual coherent alliance,Jason Johnson,Mystery,2029,590100,58
+125,Real-time 24/7 methodology,John Martinez,Fantasy,1995,543540,58
+126,Down-sized client-driven utilisation,David Davis,Non-Fiction,1934,557220,58
+127,Organic neutral architecture,Jose Martinez,Romance,2030,573660,58
+128,Front-line value-added alliance,Jason Johnson,Science Fiction,2031,590100,58
+129,Function-based coherent methodology,John Martinez,Mystery,2032,606540,58
+130,Re-engineered 24/7 utilisation,David Davis,Fantasy,1994,543540,58
+131,Seamless value-added methodology,Jose Martinez,Non-Fiction,1935,573660,58
+132,Programmable client-driven architecture,David Davis,Romance,2033,590100,58
+133,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2034,606540,58
+134,Virtual value-added alliance,Jason Johnson,Mystery,2035,622980,58
+135,Real-time coherent methodology,John Martinez,Fantasy,1993,543540,58
+136,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1936,590100,58
+137,Organic client-driven architecture,Jose Martinez,Romance,2036,606540,58
+138,Front-line neutral alliance,Jason Johnson,Science Fiction,2037,622980,58
+139,Function-based value-added methodology,John Martinez,Mystery,2038,639420,58
+140,Re-engineered coherent utilisation,David Davis,Fantasy,1992,543540,58
+141,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1937,606540,58
+142,Programmable value-added architecture,David Davis,Romance,2039,622980,58
+143,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2040,639420,58
+144,Virtual coherent alliance,Jason Johnson,Mystery,2041,655860,58
+145,Real-time value-added methodology,John Martinez,Fantasy,1991,543540,58
+146,Down-sized coherent utilisation,David Davis,Non-Fiction,1938,622980,58
+147,Organic 24/7 architecture,Jose Martinez,Romance,2042,639420,58
+148,Front-line value-added alliance,Jason Johnson,Science Fiction,2043,655860,58
+149,Function-based client-driven methodology,John Martinez,Mystery,2044,672300,58
+150,Re-engineered neutral utilisation,David Davis,Fantasy,1990,543540,58
+151,Seamless value-added methodology,Jose Martinez,Non-Fiction,1939,639420,58
+152,Programmable coherent architecture,David Davis,Romance,2045,655860,58
+153,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2046,672300,58
+154,Virtual value-added alliance,Jason Johnson,Mystery,2047,688740,58
+155,Real-time client-driven methodology,John Martinez,Fantasy,1989,543540,58
+156,Down-sized neutral utilisation,David Davis,Non-Fiction,1940,655860,58
+157,Organic value-added architecture,Jose Martinez,Romance,2048,672300,58
+158,Front-line coherent alliance,Jason Johnson,Science Fiction,2049,688740,58
+159,Function-based 24/7 methodology,John Martinez,Mystery,2050,705180,58
+160,Re-engineered value-added utilisation,David Davis,Fantasy,1988,543540,58
+161,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1941,672300,58
+162,Programmable neutral architecture,David Davis,Romance,2051,688740,58
+163,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2052,705180,58
+164,Virtual coherent alliance,Jason Johnson,Mystery,2053,721620,58
+165,Real-time 24/7 methodology,John Martinez,Fantasy,1987,543540,58
+166,Down-sized client-driven utilisation,David Davis,Non-Fiction,1942,688740,58
+167,Organic neutral architecture,Jose Martinez,Romance,2054,705180,58
+168,Front-line value-added alliance,Jason Johnson,Science Fiction,2055,721620,58
+169,Function-based coherent methodology,John Martinez,Mystery,2056,738060,58
+170,Re-engineered 24/7 utilisation,David Davis,Fantasy,1986,543540,58
+171,Seamless value-added methodology,Jose Martinez,Non-Fiction,1943,705180,58
+172,Programmable client-driven architecture,David Davis,Romance,2057,721620,58
+173,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2058,738060,58
+174,Virtual value-added alliance,Jason Johnson,Mystery,2059,754500,58
+175,Real-time coherent methodology,John Martinez,Fantasy,1985,543540,58
+176,Down-sized coherent utilisation,David Davis,Non-Fiction,1944,721620,58
+177,Organic 24/7 architecture,Jose Martinez,Romance,2060,738060,58
+178,Front-line value-added alliance,Jason Johnson,Science Fiction,2061,754500,58
+179,Function-based client-driven methodology,John Martinez,Mystery,2062,770940,58
+180,Re-engineered neutral utilisation,David Davis,Fantasy,1984,543540,58
+181,Seamless value-added methodology,Jose Martinez,Non-Fiction,1945,738060,58
+182,Programmable coherent architecture,David Davis,Romance,2063,754500,58
+183,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2064,770940,58
+184,Virtual value-added alliance,Jason Johnson,Mystery,2065,787380,58
+185,Real-time client-driven methodology,John Martinez,Fantasy,1983,543540,58
+186,Down-sized neutral utilisation,David Davis,Non-Fiction,1946,754500,58
+187,Organic value-added architecture,Jose Martinez,Romance,2066,770940,58
+188,Front-line coherent alliance,Jason Johnson,Science Fiction,2067,787380,58
+189,Function-based 24/7 methodology,John Martinez,Mystery,2068,803820,58
+190,Re-engineered value-added utilisation,David Davis,Fantasy,1982,543540,58
+191,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1947,770940,58
+192,Programmable neutral architecture,David Davis,Romance,2069,787380,58
+193,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2070,803820,58
+194,Virtual coherent alliance,Jason Johnson,Mystery,2071,820260,58
+195,Real-time coherent methodology,John Martinez,Fantasy,1981,543540,58
+196,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1948,787380,58
+197,Organic client-driven architecture,Jose Martinez,Romance,2072,803820,58
+198,Front-line neutral alliance,Jason Johnson,Science Fiction,2073,820260,58
+199,Function-based value-added methodology,John Martinez,Mystery,2074,836700,58
+200,Re-engineered coherent utilisation,David Davis,Fantasy,1980,543540,58
+201,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1949,803820,58
+202,Programmable value-added architecture,David Davis,Romance,2075,820260,58
+203,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2076,836700,58
+204,Virtual coherent alliance,Jason Johnson,Mystery,2077,853140,58
+205,Real-time value-added methodology,John Martinez,Fantasy,1979,543540,58
+206,Down-sized coherent utilisation,David Davis,Non-Fiction,1950,820260,58
+207,Organic 24/7 architecture,Jose Martinez,Romance,2078,836700,58
+208,Front-line value-added alliance,Jason Johnson,Science Fiction,2079,853140,58
+209,Function-based client-driven methodology,John Martinez,Mystery,2080,869580,58
+210,Re-engineered neutral utilisation,David Davis,Fantasy,1978,543540,58
+211,Seamless value-added methodology,Jose Martinez,Non-Fiction,1951,836700,58
+212,Programmable coherent architecture,David Davis,Romance,2081,853140,58
+213,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2082,869580,58
+214,Virtual value-added alliance,Jason Johnson,Mystery,2083,886020,58
+215,Real-time 24/7 methodology,John Martinez,Fantasy,1977,543540,58
+216,Down-sized client-driven utilisation,David Davis,Non-Fiction,1952,853140,58
+217,Organic neutral architecture,Jose Martinez,Romance,2084,869580,58
+218,Front-line value-added alliance,Jason Johnson,Science Fiction,2085,886020,58
+219,Function-based coherent methodology,John Martinez,Mystery,2086,902460,58
+220,Re-engineered 24/7 utilisation,David Davis,Fantasy,1976,543540,58
+221,Seamless value-added methodology,Jose Martinez,Non-Fiction,1953,869580,58
+222,Programmable client-driven architecture,David Davis,Romance,2087,886020,58
+223,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2088,902460,58
+224,Virtual value-added alliance,Jason Johnson,Mystery,2089,918900,58
+225,Real-time coherent methodology,John Martinez,Fantasy,1975,543540,58
+226,Down-sized coherent utilisation,David Davis,Non-Fiction,1954,886020,58
+227,Organic 24/7 architecture,Jose Martinez,Romance,2090,902460,58
+228,Front-line value-added alliance,Jason Johnson,Science Fiction,2091,918900,58
+229,Function-based client-driven methodology,John Martinez,Mystery,2092,935340,58
+230,Re-engineered neutral utilisation,David Davis,Fantasy,1974,543540,58
+231,Seamless value-added methodology,Jose Martinez,Non-Fiction,1955,902460,58
+232,Programmable coherent architecture,David Davis,Romance,2093,918900,58
+233,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2094,935340,58
+234,Virtual value-added alliance,Jason Johnson,Mystery,2095,951780,58
+235,Real-time 24/7 methodology,John Martinez,Fantasy,1973,543540,58
+236,Down-sized neutral utilisation,David Davis,Non-Fiction,1956,918900,58
+237,Organic value-added architecture,Jose Martinez,Romance,2096,935340,58
+238,Front-line coherent alliance,Jason Johnson,Science Fiction,2097,951780,58
+239,Function-based 24/7 methodology,John Martinez,Mystery,2098,968220,58
+240,Re-engineered value-added utilisation,David Davis,Fantasy,1972,543540,58
+241,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1957,935340,58
+242,Programmable neutral architecture,David Davis,Romance,2099,951780,58
+243,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2100,968220,58
+244,Virtual coherent alliance,Jason Johnson,Mystery,2101,984660,58
+245,Real-time coherent methodology,John Martinez,Fantasy,1971,543540,58
+246,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1958,951780,58
+247,Organic client-driven architecture,Jose Martinez,Romance,2102,968220,58
+248,Front-line neutral alliance,Jason Johnson,Science Fiction,2103,984660,58
+249,Function-based value-added methodology,John Martinez,Mystery,2104,1001100,58
+250,Re-engineered coherent utilisation,David Davis,Fantasy,1970,543540,58
+251,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1959,968220,58
+252,Programmable value-added architecture,David Davis,Romance,2105,984660,58
+253,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2106,1001100,58
+254,Virtual coherent alliance,Jason Johnson,Mystery,2107,1017540,58
+255,Real-time value-added methodology,John Martinez,Fantasy,1969,543540,58
+256,Down-sized coherent utilisation,David Davis,Non-Fiction,1960,984660,58
+257,Organic 24/7 architecture,Jose Martinez,Romance,2108,1001100,58
+258,Front-line value-added alliance,Jason Johnson,Science Fiction,2109,1017540,58
+259,Function-based client-driven methodology,John Martinez,Mystery,2110,1033980,58
+260,Re-engineered neutral utilisation,David Davis,Fantasy,1968,543540,58
+261,Seamless value-added methodology,Jose Martinez,Non-Fiction,1961,1001100,58
+262,Programmable coherent architecture,David Davis,Romance,2111,1017540,58
+263,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2112,1033980,58
+264,Virtual value-added alliance,Jason Johnson,Mystery,2113,1050420,58
+265,Real-time 24/7 methodology,John Martinez,Fantasy,1967,543540,58
+266,Down-sized client-driven utilisation,David Davis,Non-Fiction,1962,1017540,58
+267,Organic neutral architecture,Jose Martinez,Romance,2114,1033980,58
+268,Front-line value-added alliance,Jason Johnson,Science Fiction,2115,1050420,58
+269,Function-based coherent methodology,John Martinez,Mystery,2116,1066860,58
+270,Re-engineered 24/7 utilisation,David Davis,Fantasy,1966,543540,58
+271,Seamless value-added methodology,Jose Martinez,Non-Fiction,1963,1033980,58
+272,Programmable client-driven architecture,David Davis,Romance,2117,1050420,58
+273,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2118,1066860,58
+274,Virtual value-added alliance,Jason Johnson,Mystery,2119,1083300,58
+275,Real-time coherent methodology,John Martinez,Fantasy,1965,543540,58
+276,Down-sized coherent utilisation,David Davis,Non-Fiction,1964,1050420,58
+277,Organic 24/7 architecture,Jose Martinez,Romance,2120,1066860,58
+278,Front-line value-added alliance,Jason Johnson,Science Fiction,2121,1083300,58
+279,Function-based client-driven methodology,John Martinez,Mystery,2122,1099740,58
+280,Re-engineered neutral utilisation,David Davis,Fantasy,1964,543540,58
+281,Seamless value-added methodology,Jose Martinez,Non-Fiction,1965,1066860,58
+282,Programmable coherent architecture,David Davis,Romance,2123,1083300,58
+283,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2124,1099740,58
+284,Virtual value-added alliance,Jason Johnson,Mystery,2125,1116180,58
+285,Real-time 24/7 methodology,John Martinez,Fantasy,1963,543540,58
+286,Down-sized neutral utilisation,David Davis,Non-Fiction,1966,1083300,58
+287,Organic value-added architecture,Jose Martinez,Romance,2126,1099740,58
+288,Front-line coherent alliance,Jason Johnson,Science Fiction,2127,1116180,58
+289,Function-based 24/7 methodology,John Martinez,Mystery,2128,1132620,58
+290,Re-engineered value-added utilisation,David Davis,Fantasy,1962,543540,58
+291,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1967,1099740,58
+292,Programmable neutral architecture,David Davis,Romance,2129,1116180,58
+293,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2130,1132620,58
+294,Virtual coherent alliance,Jason Johnson,Mystery,2131,1149060,58
+295,Real-time coherent methodology,John Martinez,Fantasy,1961,543540,58
+296,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1968,1116180,58
+297,Organic client-driven architecture,Jose Martinez,Romance,2132,1132620,58
+298,Front-line neutral alliance,Jason Johnson,Science Fiction,2133,1149060,58
+299,Function-based value-added methodology,John Martinez,Mystery,2134,1165500,58
+300,Re-engineered coherent utilisation,David Davis,Fantasy,1960,543540,58
+301,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1969,1132620,58
+302,Programmable value-added architecture,David Davis,Romance,2135,1149060,58
+303,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2136,1165500,58
+304,Virtual coherent alliance,Jason Johnson,Mystery,2137,1181940,58
+305,Real-time value-added methodology,John Martinez,Fantasy,1959,543540,58
+306,Down-sized coherent utilisation,David Davis,Non-Fiction,1970,1149060,58
+307,Organic 24/7 architecture,Jose Martinez,Romance,2138,1165500,58
+308,Front-line value-added alliance,Jason Johnson,Science Fiction,2139,1181940,58
+309,Function-based client-driven methodology,John Martinez,Mystery,2140,1198380,58
+310,Re-engineered neutral utilisation,David Davis,Fantasy,1958,543540,58
+311,Seamless value-added methodology,Jose Martinez,Non-Fiction,1971,1165500,58
+312,Programmable coherent architecture,David Davis,Romance,2141,1181940,58
+313,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2142,1198380,58
+314,Virtual value-added alliance,Jason Johnson,Mystery,2143,1214820,58
+315,Real-time 24/7 methodology,John Martinez,Fantasy,1957,543540,58
+316,Down-sized client-driven utilisation,David Davis,Non-Fiction,1972,1181940,58
+317,Organic neutral architecture,Jose Martinez,Romance,2144,1198380,58
+318,Front-line value-added alliance,Jason Johnson,Science Fiction,2145,1214820,58
+319,Function-based coherent methodology,John Martinez,Mystery,2146,1231260,58
+320,Re-engineered 24/7 utilisation,David Davis,Fantasy,1956,543540,58
+321,Seamless value-added methodology,Jose Martinez,Non-Fiction,1973,1198380,58
+322,Programmable client-driven architecture,David Davis,Romance,2147,1214820,58
+323,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2148,1231260,58
+324,Virtual value-added alliance,Jason Johnson,Mystery,2149,1247700,58
+325,Real-time coherent methodology,John Martinez,Fantasy,1955,543540,58
+326,Down-sized neutral utilisation,David Davis,Non-Fiction,1974,1214820,58
+327,Organic value-added architecture,Jose Martinez,Romance,2150,1231260,58
+328,Front-line coherent alliance,Jason Johnson,Science Fiction,2151,1247700,58
+329,Function-based 24/7 methodology,John Martinez,Mystery,2152,1264140,58
+330,Re-engineered value-added utilisation,David Davis,Fantasy,1954,543540,58
+331,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1975,1231260,58
+332,Programmable coherent architecture,David Davis,Romance,2153,1247700,58
+333,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2154,1264140,58
+334,Virtual value-added alliance,Jason Johnson,Mystery,2155,1280580,58
+335,Real-time value-added methodology,John Martinez,Fantasy,1953,543540,58
+336,Down-sized coherent utilisation,David Davis,Non-Fiction,1976,1247700,58
+337,Organic 24/7 architecture,Jose Martinez,Romance,2156,1264140,58
+338,Front-line value-added alliance,Jason Johnson,Science Fiction,2157,1280580,58
+339,Function-based client-driven methodology,John Martinez,Mystery,2158,1297020,58
+340,Re-engineered neutral utilisation,David Davis,Fantasy,1952,543540,58
+341,Seamless value-added methodology,Jose Martinez,Non-Fiction,1977,1264140,58
+342,Programmable neutral architecture,David Davis,Romance,2159,1280580,58
+343,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2160,1297020,58
+344,Virtual coherent alliance,Jason Johnson,Mystery,2161,1313460,58
+345,Real-time coherent methodology,John Martinez,Fantasy,1951,543540,58
+346,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1978,1280580,58
+347,Organic client-driven architecture,Jose Martinez,Romance,2162,1297020,58
+348,Front-line neutral alliance,Jason Johnson,Science Fiction,2163,1313460,58
+349,Function-based value-added methodology,John Martinez,Mystery,2164,1329900,58
+350,Re-engineered coherent utilisation,David Davis,Fantasy,1950,543540,58
+351,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1979,1297020,58
+352,Programmable value-added architecture,David Davis,Romance,2165,1313460,58
+353,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2166,1329900,58
+354,Virtual coherent alliance,Jason Johnson,Mystery,2167,1346340,58
+355,Real-time value-added methodology,John Martinez,Fantasy,1949,543540,58
+356,Down-sized coherent utilisation,David Davis,Non-Fiction,1980,1313460,58
+357,Organic 24/7 architecture,Jose Martinez,Romance,2168,1329900,58
+358,Front-line value-added alliance,Jason Johnson,Science Fiction,2169,1346340,58
+359,Function-based client-driven methodology,John Martinez,Mystery,2170,1362780,58
+360,Re-engineered neutral utilisation,David Davis,Fantasy,1948,543540,58
+361,Seamless value-added methodology,Jose Martinez,Non-Fiction,1981,1329900,58
+362,Programmable coherent architecture,David Davis,Romance,2171,1346340,58
+363,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2172,1362780,58
+364,Virtual value-added alliance,Jason Johnson,Mystery,2173,1379220,58
+365,Real-time 24/7 methodology,John Martinez,Fantasy,1947,543540,58
+366,Down-sized client-driven utilisation,David Davis,Non-Fiction,1982,1346340,58
+367,Organic neutral architecture,Jose Martinez,Romance,2174,1362780,58
+368,Front-line value-added alliance,Jason Johnson,Science Fiction,2175,1379220,58
+369,Function-based coherent methodology,John Martinez,Mystery,2176,1395660,58
+370,Re-engineered 24/7 utilisation,David Davis,Fantasy,1946,543540,58
+371,Seamless value-added methodology,Jose Martinez,Non-Fiction,1983,1362780,58
+372,Programmable client-driven architecture,David Davis,Romance,2177,1379220,58
+373,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2178,1395660,58
+374,Virtual value-added alliance,Jason Johnson,Mystery,2179,1412100,58
+375,Real-time coherent methodology,John Martinez,Fantasy,1945,543540,58
+376,Down-sized neutral utilisation,David Davis,Non-Fiction,1984,1379220,58
+377,Organic value-added architecture,Jose Martinez,Romance,2180,1395660,58
+378,Front-line coherent alliance,Jason Johnson,Science Fiction,2181,1412100,58
+379,Function-based 24/7 methodology,John Martinez,Mystery,2182,1428540,58
+380,Re-engineered value-added utilisation,David Davis,Fantasy,1944,543540,58
+381,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1985,1395660,58
+382,Programmable coherent architecture,David Davis,Romance,2183,1412100,58
+383,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2184,1428540,58
+384,Virtual value-added alliance,Jason Johnson,Mystery,2185,1444980,58
+385,Real-time value-added methodology,John Martinez,Fantasy,1943,543540,58
+386,Down-sized coherent utilisation,David Davis,Non-Fiction,1986,1412100,58
+387,Organic 24/7 architecture,Jose Martinez,Romance,2186,1428540,58
+388,Front-line value-added alliance,Jason Johnson,Science Fiction,2187,1444980,58
+389,Function-based client-driven methodology,John Martinez,Mystery,2188,1461420,58
+390,Re-engineered neutral utilisation,David Davis,Fantasy,1942,543540,58
+391,Seamless value-added methodology,Jose Martinez,Non-Fiction,1987,1428540,58
+392,Programmable neutral architecture,David Davis,Romance,2189,1444980,58
+393,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2190,1461420,58
+394,Virtual coherent alliance,Jason Johnson,Mystery,2191,1477860,58
+395,Real-time coherent methodology,John Martinez,Fantasy,1941,543540,58
+396,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1988,1444980,58
+397,Organic client-driven architecture,Jose Martinez,Romance,2192,1461420,58
+398,Front-line neutral alliance,Jason Johnson,Science Fiction,2193,1477860,58
+399,Function-based value-added methodology,John Martinez,Mystery,2194,1494300,58
+400,Re-engineered coherent utilisation,David Davis,Fantasy,1940,543540,58
+401,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1989,1461420,58
+402,Programmable value-added architecture,David Davis,Romance,2195,1477860,58
+403,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2196,1494300,58
+404,Virtual coherent alliance,Jason Johnson,Mystery,2197,1510740,58
+405,Real-time value-added methodology,John Martinez,Fantasy,1939,543540,58
+406,Down-sized coherent utilisation,David Davis,Non-Fiction,1990,1477860,58
+407,Organic 24/7 architecture,Jose Martinez,Romance,2198,1494300,58
+408,Front-line value-added alliance,Jason Johnson,Science Fiction,2199,1510740,58
+409,Function-based client-driven methodology,John Martinez,Mystery,2200,1527180,58
+410,Re-engineered neutral utilisation,David Davis,Fantasy,1938,543540,58
+411,Seamless value-added methodology,Jose Martinez,Non-Fiction,1991,1494300,58
+412,Programmable coherent architecture,David Davis,Romance,2201,1510740,58
+413,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2202,1527180,58
+414,Virtual value-added alliance,Jason Johnson,Mystery,2203,1543620,58
+415,Real-time 24/7 methodology,John Martinez,Fantasy,1937,543540,58
+416,Down-sized client-driven utilisation,David Davis,Non-Fiction,1992,1510740,58
+417,Organic neutral architecture,Jose Martinez,Romance,2204,1527180,58
+418,Front-line value-added alliance,Jason Johnson,Science Fiction,2205,1543620,58
+419,Function-based coherent methodology,John Martinez,Mystery,2206,1560060,58
+420,Re-engineered 24/7 utilisation,David Davis,Fantasy,1936,543540,58
+421,Seamless value-added methodology,Jose Martinez,Non-Fiction,1993,1527180,58
+422,Programmable client-driven architecture,David Davis,Romance,2207,1543620,58
+423,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2208,1560060,58
+424,Virtual value-added alliance,Jason Johnson,Mystery,2209,1576500,58
+425,Real-time coherent methodology,John Martinez,Fantasy,1935,543540,58
+426,Down-sized neutral utilisation,David Davis,Non-Fiction,1994,1543620,58
+427,Organic value-added architecture,Jose Martinez,Romance,2210,1560060,58
+428,Front-line coherent alliance,Jason Johnson,Science Fiction,2211,1576500,58
+429,Function-based 24/7 methodology,John Martinez,Mystery,2212,1592940,58
+430,Re-engineered value-added utilisation,David Davis,Fantasy,1934,543540,58
+431,Seamless client-driven methodology,Jose Martinez,Non-Fiction,1995,1560060,58
+432,Programmable coherent architecture,David Davis,Romance,2213,1576500,58
+433,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2214,1592940,58
+434,Virtual value-added alliance,Jason Johnson,Mystery,2215,1609380,58
+435,Real-time value-added methodology,John Martinez,Fantasy,1933,543540,58
+436,Down-sized coherent utilisation,David Davis,Non-Fiction,1996,1576500,58
+437,Organic 24/7 architecture,Jose Martinez,Romance,2216,1592940,58
+438,Front-line value-added alliance,Jason Johnson,Science Fiction,2217,1609380,58
+439,Function-based client-driven methodology,John Martinez,Mystery,2218,1625820,58
+440,Re-engineered neutral utilisation,David Davis,Fantasy,1932,543540,58
+441,Seamless value-added methodology,Jose Martinez,Non-Fiction,1997,1592940,58
+442,Programmable neutral architecture,David Davis,Romance,2219,1609380,58
+443,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2220,1625820,58
+444,Virtual coherent alliance,Jason Johnson,Mystery,2221,1642260,58
+445,Real-time coherent methodology,John Martinez,Fantasy,1931,543540,58
+446,Down-sized 24/7 utilisation,David Davis,Non-Fiction,1998,1609380,58
+447,Organic client-driven architecture,Jose Martinez,Romance,2222,1625820,58
+448,Front-line neutral alliance,Jason Johnson,Science Fiction,2223,1642260,58
+449,Function-based value-added methodology,John Martinez,Mystery,2224,1658700,58
+450,Re-engineered coherent utilisation,David Davis,Fantasy,1930,543540,58
+451,Seamless 24/7 methodology,Jose Martinez,Non-Fiction,1999,1625820,58
+452,Programmable value-added architecture,David Davis,Romance,2225,1642260,58
+453,Cross-platform client-driven hierarchy,Jose Miller,Science Fiction,2226,1658700,58
+454,Virtual coherent alliance,Jason Johnson,Mystery,2227,1675140,58
+455,Real-time value-added methodology,John Martinez,Fantasy,1929,543540,58
+456,Down-sized coherent utilisation,David Davis,Non-Fiction,2000,1642260,58
+457,Organic 24/7 architecture,Jose Martinez,Romance,2228,1658700,58
+458,Front-line value-added alliance,Jason Johnson,Science Fiction,2229,1675140,58
+459,Function-based client-driven methodology,John Martinez,Mystery,2230,1691580,58
+460,Re-engineered neutral utilisation,David Davis,Fantasy,1928,543540,58
+461,Seamless value-added methodology,Jose Martinez,Non-Fiction,2001,1658700,58
+462,Programmable coherent architecture,David Davis,Romance,2231,1675140,58
+463,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2232,1691580,58
+464,Virtual value-added alliance,Jason Johnson,Mystery,2233,1708020,58
+465,Real-time 24/7 methodology,John Martinez,Fantasy,1927,543540,58
+466,Down-sized client-driven utilisation,David Davis,Non-Fiction,2002,1675140,58
+467,Organic neutral architecture,Jose Martinez,Romance,2233,1691580,58
+468,Front-line value-added alliance,Jason Johnson,Science Fiction,2234,1708020,58
+469,Function-based coherent methodology,John Martinez,Mystery,2235,1724460,58
+470,Re-engineered 24/7 utilisation,David Davis,Fantasy,1926,543540,58
+471,Seamless value-added methodology,Jose Martinez,Non-Fiction,2003,1691580,58
+472,Programmable client-driven architecture,David Davis,Romance,2236,1708020,58
+473,Cross-platform neutral hierarchy,Jose Miller,Science Fiction,2237,1724460,58
+474,Virtual value-added alliance,Jason Johnson,Mystery,2238,1740900,58
+475,Real-time coherent methodology,John Martinez,Fantasy,1925,543540,58
+476,Down-sized neutral utilisation,David Davis,Non-Fiction,2004,1708020,58
+477,Organic value-added architecture,Jose Martinez,Romance,2239,1724460,58
+478,Front-line coherent alliance,Jason Johnson,Science Fiction,2240,1740900,58
+479,Function-based 24/7 methodology,John Martinez,Mystery,2241,1757340,58
+480,Re-engineered value-added utilisation,David Davis,Fantasy,1924,543540,58
+481,Seamless client-driven methodology,Jose Martinez,Non-Fiction,2005,1724460,58
+482,Programmable coherent architecture,David Davis,Romance,2242,1740900,58
+483,Cross-platform 24/7 hierarchy,Jose Miller,Science Fiction,2243,1757340,58
+484,Virtual value-added alliance,Jason Johnson,Mystery,2244,1773780,58
+485,Real-time value-added methodology,John Martinez,Fantasy,1923,543540,58
+486,Down-sized coherent utilisation,David Davis,Non-Fiction,2006,1740900,58
+487,Organic 24/7 architecture,Jose Martinez,Romance,2245,1757340,58
+488,Front-line value-added alliance,Jason Johnson,Science Fiction,2246,1773780,58
+489,Function-based client-driven methodology,John Martinez,Mystery,2247,1790220,58
+490,Re-engineered neutral utilisation,David Davis,Fantasy,1922,543540,58
+491,Seamless value-added methodology,Jose Martinez,Non-Fiction,2007,1757340,58
+492,Programmable neutral architecture,David Davis,Romance,2248,1773780,58
+493,Cross-platform value-added hierarchy,Jose Miller,Science Fiction,2249,1790220,58
+494,Virtual coherent alliance,Jason Johnson,Mystery,2250,1806660,58
+495,Real-time coherent methodology,John Martinez,Fantasy,1921,543540,58
+496,Down-sized 24/7 utilisation,David Davis,Non-Fiction,2008,1773780,58
+497,Organic client-driven architecture,Jose Martinez,Romance,2251,1790220,58
+498,Front-line neutral alliance,Jason Johnson,Science Fiction,2252,1806660,58
+499,Function-based value-added methodology,John Martinez,Mystery,2253,1823100,58
+500,Re-engineered coherent utilisation,David Davis,Fantasy,1920,543540,58
